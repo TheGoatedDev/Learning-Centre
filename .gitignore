@@ -5,3 +5,4 @@
 !.gitignore
 !.claude/
 !.claude/**
+!README.md
