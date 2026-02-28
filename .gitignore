@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Allow git and learning infrastructure
+!.gitignore
+!.claude/
+!.claude/**
